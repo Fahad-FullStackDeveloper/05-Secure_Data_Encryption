@@ -1,3 +1,2 @@
-streamlit==1.23.0
-cryptography==41.0.1
-hashlib==3.4.6
+streamlit>=1.32.0
+cryptography>=42.0.0
